@@ -1,0 +1,13 @@
+{
+  "name": "project-parking-root",
+  "version": "1.0.0",
+  "description": "Root workspace for Park Flow Wiz project",
+  "private": true,
+  "scripts": {
+    "dev": "cd park-flow-wiz-main && npm run dev",
+    "build": "cd park-flow-wiz-main && npm run build",
+    "preview": "cd park-flow-wiz-main && npm run preview",
+    "lint": "cd park-flow-wiz-main && npm run lint",
+    "test": "cd park-flow-wiz-main && npm run test"
+  }
+}
